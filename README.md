@@ -9,5 +9,3 @@ init_kubeadm.sh修改kubeadm init参数 --apiserver-advertise-address=192.168.15
 master节点输入1
 node节点输入2
 3为master的dashboard（可选非必须）
-	
-![image](https://user-images.githubusercontent.com/57087563/120353141-0b494900-c334-11eb-8cf6-2236b4ed7547.png)
